@@ -16,7 +16,7 @@
            
         </HorizontalStackLayout>
         <Label FontSize="20" Text="Mi nombre es Sammy, como dice en casi todo el trabajo. Tengo 22 años y estudio Ingeniería de Software en la UDLA" VerticalOptions="End" />
-        <Button Text="See More" Clicked="LearnMore_Clicked" />
+        
     </VerticalStackLayout>
 
 </ContentPage>
